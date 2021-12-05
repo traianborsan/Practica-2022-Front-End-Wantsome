@@ -1,0 +1,3 @@
+Git este un sistem version control care rulează pe majoritatea platformelor, inclusiv Linux, POSIX, Windows și OS X.
+Ca și Mercurial, Git este un sistem distribuit și nu întreține o bază de date comună. Este folosit în echipe de
+dezvoltare mari, în care membrii echipei acționează oarecum independent și sunt răspândiți pe o arie geografică mare.

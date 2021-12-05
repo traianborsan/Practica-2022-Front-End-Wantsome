@@ -1,0 +1,7 @@
+Branch - A repository is your whole project (directories and files) that you clone on your computer. A branch is a
+version of your repository, or in other words, an independent line of development. A repository can contain multiple
+branches, which means there are multiple versions of the repository.
+
+Commit - In Git, a commit is a snapshot of your repo at a specific point in time. ... Think of your working directory
+as your “in progress” working area; here, created or modified files are not yet reflected in your Git repo. Changes
+made to files in your working directly only exist locally on your machine.
